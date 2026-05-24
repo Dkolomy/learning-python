@@ -1,0 +1,17 @@
+print(bytes(4))
+#print(bytes(4, 'utf-8'))
+#print(bytes(4, 'utf-16'))
+#print(bytes(4, 'utf-32'))
+#print(bytes(4, 'utf-64'))
+#print(bytes(4, 'utf-128'))
+#print(bytes(4, 'utf-256'))
+#print(bytes(4, 'utf-512'))
+#print(bytes(4, 'utf-1024'))
+#print(bytes(4, 'utf-2048'))
+#print(bytes(4, 'utf-4096'))
+#print(bytes(4, 'utf-8192'))
+
+simplyBytes = bytes('😊', 'utf-8')
+print(simplyBytes)
+
+print(simplyBytes.decode('utf-8'))
