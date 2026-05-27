@@ -8,3 +8,6 @@ for n in range(1,101):
   else:
     print(n)
 
+print('======================')
+n=15
+print('Fizz' if n % 3 == 0 else 'Buzz' if n % 5 == 0 else n)
