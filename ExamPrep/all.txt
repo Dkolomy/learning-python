@@ -1,0 +1,156 @@
+# 1 All Python erors extend a class called ___
+# BaseException +
+
+# 2 value of voteResult
+# voteResult = 'I voted!' if canVote else 'wait a few more years'
+
+# print(voteResult)
+# I voted! +
+
+# 3 valid command line arguments are ___
+# -h, --help, -h textfile.txt
+
+# 4 What happens when you call the join function on a thread?
+# The function  checks if the threadis finished executing and parsesuntil it's complete +
+
+# 5 ___ keeprelated collections of functions and attributes labeled and organized together
+# class +
+
+# 6 What three types of data structures are available in Python?
+# List, Set, Dictionary +
+
+# 7 Python does not have build in language support for
+# interfaces -
+
+# 8 What is the static attribute in the User class?
+# localtion -
+
+# 9 Composition is the process of creating ___ out of ___
+# (complex object, simple object), +
+
+# 10 What is the purpose of underscore in the variable name?
+# used to indicate that a variable is not used
+
+# 11 Result of the following code?
+# indefinitely +
+
+# 12 Result of the following code?
+# Just right +
+
+# 13 Turns a string into bytes
+# bytes("Hello, World!", encoding='utf-8') -
+
+# 14 Print backwards
+# print(myString[::-1]) +
+
+# 15 Define statis method?
+# (Static method does not belongsto a particular class instance and does not require a self parameter from its parent class) ? +
+
+# 16 The ___ class helps authomate the creation and management of class that ? and manipulate ___
+# (data,data) - 
+
+# 17 What returns this code?
+# Project 1544 has 24 days remaining
+# Project 1544 has 24 days remaining +
+
+# 18 What does the ArgumentParser class do?
+# it creates an object to track all arguments program accepted +
+
+# 19 Which overridable method lets you treat an instance of an object as a function?
+# __call__ +
+
+# 20 what priority, if any, is set on all events executed from this function?
+# 1 -
+
+# 21 what if anything is wrong with this code?
+# reader = cvs.reader(file) -
+
+# 22 What eturn True
+# - (bool(None)) - False - 
+
+# 23 which function call ed when a new class instance is created?
+# __init__ +
+
+# 24 if anything wrong with this code?
+# super().__init__() is not called — Employee +
+ 
+# 25 when using a try/catch statement is it always necessary to specify an except block?
+# No +
+
+# 26 overriding which of these methods automatically makes object sortable?
+# __lt__ -
+
+# 27 what will be printed?
+# True False +
+
+# 28 when it comes to the program you've writing on your computer, the operation responsible for ___ to ___ process that running
+# (allocating memory; each) - allocating memory; each                    <---- +
+
+# 29 What wrong with that code?
+# Employee does not implement the abstract method debug() +
+
+# 30 assuming that data.txt ia s multiline file, how will this code print out the file text?
+# without leading and trailing whitespace     +
+
+# 31 what will be printed?
+# 535kevinwins amiry_007 gretta jdman xavier1 zeke78 -
+
+# 32 Your team is building RSVP app where users can create, add and update
+# # ['John', 'Youself', 'Raj', 'Yelena', 'Sofia']
+
+
+# print(invites)
+# ['John', 'Youself', 'Raj', 'Yelena', 'Sofia'] -
+
+# 33 What happens to the CSV header values when this code runs?
+# The header row is automatically consumed by csv.DictReader and used as dictionary keys - 
+
+# 34 what type is decodedData when  this code runs?
+# Dictionary -
+
+# 35 how wood yiu changevthe score for Player 3 to 1000?
+# scores['Player 3'] = 1000 +
+
+# 36 Quiz app. Questions/answers, if question and answer are both true.
+# True +
+
+# 37 You've just converted an object in your project into a data class. Now you wantadditional object initializationbut data classes
+# use __post_init__ -
+
+# 38 ___ classes support default values right out of the box?
+# data classes -
+
+# 39 result of this code:
+# Johnny A +
+
+# 40 Python's "magic methods" can help you do which three things?
+# - restrict objects from being called like functions +
+
+# 41 CVS file values separated by tabs? How I parse it?
+#   reader = csv.reader(file, delimiter='\t')  +
+
+# 42 What is result of: '1' + '3'
+# '13' + 
+
+# 43 What is result:
+# 0 2 4 6 8 +
+
+# 44 How would you make a data class immutable?
+# use frozen=True in the data class decorator +
+
+# 45 What is result of this code
+# 4
+
+# 46 You program needs to store small collection of related data that won't be changed. Which data type would you use?
+# tuple +
+
+# 47 result of this code:
+# 26 False +
+
+# 48 How would you look up the ID 73 in this dictionary?
+# ????????????
+
+# 49
+
+# 50 your coworker shows you a new base exception class they've written. What, if anything is wrong with this code?
+# Nothing +
